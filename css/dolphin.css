@@ -25,6 +25,6 @@ html {
     position: absolute;
     top: 100px;
     right: 0;
-    transform: rotate(0.5turn);
+    transform: rotate(0.25turn);
   }
 }
